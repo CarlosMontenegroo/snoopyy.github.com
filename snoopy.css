@@ -1,0 +1,52 @@
+
+#imagen {
+    margin-top: -130px;
+    margin-left: 500px;
+    width: 135px;
+    height: 135px;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: pink;
+    color: #333;
+}
+header {
+    background-color: pink;
+    padding: 20px;
+}
+
+
+img {
+    border: 5px solid salmon;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.custom-footer {
+    background-color: #ffcccc; /* Color de fondo suave (rosa claro) */
+    color: #333; /* Color del texto */
+    text-align: center; /* Centrar el texto */
+    padding: 20px; /* Espacio interior */
+    font-family: 'Arial', sans-serif; /* Fuente sencilla y legible */
+    font-size: 18px; /* Tamaño del texto */
+    border-top: 2px solid #ff9999; /* Línea superior decorativa */
+}
+
+.custom-footer p {
+    margin: 0; /* Eliminar el margen predeterminado del párrafo */
+}
+
+.snoopy-quote {
+    font-style: italic; /* Cursiva para la cita */
+    margin-top: 10px; /* Separación entre las dos frases */
+    font-size: 16px; /* Tamaño ligeramente menor para la cita */
+    color: #555; /* Tono gris para diferenciar el texto de la cita */
+}
+#musica {
+    width: 150px;
+    height: 150px;
+}
+
+
